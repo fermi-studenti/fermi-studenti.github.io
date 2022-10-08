@@ -1,0 +1,93 @@
+# The URL the site will be built for
+base_url = "https://example.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "papaya"
+
+taxonomies = [
+    { name = "categories" },
+    { name = "tags" },
+]
+
+default_language = "it"
+
+[languages]
+
+[languages.it]
+title = "Studenti del Liceo Fermi"
+description = "Il sito degli studenti del Liceo Scientifico E. Fermi di Padova"
+generate_feed = false
+feed_filename = "atom.xml"
+taxonomies = [
+    { name = "tags", feed = true, lang = "it" },
+    { name = "categories", feed = true, lang = "it" },
+]
+
+[languages.it.translations]
+projects = "Articoli"
+blog = "Blog"
+about = "Info"
+recent_projects = "Articoli recenti"
+more_projects = "Più articoli"
+recent_blog_posts = "Post recenti"
+more_blog_posts = "Più post"
+tag = "Tag"
+tags = "Tag"
+to_all_tags = "A tutti i tag"
+category = "Categoria"
+categories = "Categorie"
+to_all_categories = "A tutte le categorie"
+view_by = "Ordina per"
+other = "Altro"
+minute = "min"
+prev_page = "A post più recenti"
+next_page = "A post più vecchi"
+# Customize your post date format. See: https://tera.netlify.app/docs/#date
+date_format = "%B %e, %Y"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Development environment. Used by the page macros to load remote content only when in "prod" mode
+env = "ZOLA_ENV"
+
+# List of Papaya navigational menu items. Used to construct the navigation bar. See the README for item schema.
+menu_items = [
+    { name = "projects", url = "$LANG_BASE_URL/projects", show_recent = true, recent_items = 3, recent_trans_key = "recent_projects", more_trans_key = "more_projects" },
+    { name = "blog", url = "$LANG_BASE_URL/blog", show_recent = true, recent_items = 3, recent_trans_key = "recent_blog_posts", more_trans_key = "more_blog_posts" },
+    # tag is not a zola section, it's just a link.
+    { name = "tags", url = "$LANG_BASE_URL/tags" },
+    { name = "about", url = "$LANG_BASE_URL/about", show_recent = false },
+]
+
+[extra.images]
+# Width defined in pixels
+max_width = 2500
+
+# Open Graph Protocol objects. See: https://ogp.me/
+[extra.ogp]
+locale = "it_IT"
+first_name = "Studenti"
+last_name = "Liceo Fermi Padova"
+gender = "none"
+username = "Studenti fermi"
+
+# Footer social links; full options listed in macros/social.html
+[extra.social]
+email = "rappresentanti.fermi@gmail.com"
+other = [
+    { name = "Instagram", font_awesome = "fa-brands fa-instagram", url = "https://www.instagram.com/liceofermi.rappresentanti/" },
+    { name = "Discord", font_awesome = "fa-brands fa-discord", url = "https://discord.gg/wQfZkGRsKH" }
+]
+
+# CDN links
+[extra.cdn]
+font_awesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
