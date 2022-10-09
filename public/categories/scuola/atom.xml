@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
+	<title>Studenti del Liceo Fermi - scuola</title>
+	<subtitle>Il sito degli studenti del Liceo Scientifico E. Fermi di Padova, creato da Pragmatilista.</subtitle>
+	<link href="https://fermi-studenti.github.io/categories/scuola/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://fermi-studenti.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-10-09T00:00:00+00:00</updated>
+	<id>https://fermi-studenti.github.io/categories/scuola/atom.xml</id>
+	<entry xml:lang="it">
+		<title>Come orientarsi al Fermi</title>
+		<published>2022-10-09T00:00:00+00:00</published>
+		<updated>2022-10-09T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://fermi-studenti.github.io/projects/orientarsi-al-fermi/" type="text/html"/>
+		<id>https://fermi-studenti.github.io/projects/orientarsi-al-fermi/</id>
+		<content type="html">&lt;p&gt;La &amp;quot;mappa&amp;quot; della scuola che viene fornita agli studenti ogni anno fa schifo, quindi spiego qui come usarla.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Entrando a scuola il primo giorno dell&#x27;anno, troverete qualcosa assomigliante a questo:&lt;&#x2F;p&gt;
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+    
+    
+
+    
+        
+    
+
+&lt;figure &gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;fermi-studenti.github.io&amp;#x2F;processed_images&amp;#x2F;e361a70ec7e1505100.jpg&quot; class=&quot;&quot; alt=&quot;Mappa delle classi&quot;&#x2F;&gt;
+    &lt;figcaption&gt;Mappa delle classi&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Se non si conosce già com&#x27;è disposta la scuola, è impossibile capire dove bisogna andare. Quindi ecco qualcosa che potrebbe aiutare:&lt;&#x2F;p&gt;
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+    
+    
+
+    
+        
+        
+        
+        
+        
+    
+
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;fermi-studenti.github.io&amp;#x2F;processed_images&amp;#x2F;57bfa3f1893cf09f00.png&quot; class=&quot;&quot; alt=&quot;Mappa delle classi migliorata&quot;&#x2F;&gt;
+    &lt;figcaption&gt;Mappa delle classi migliorata&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+</content>
+	</entry>
+</feed>
