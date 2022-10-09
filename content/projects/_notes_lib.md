@@ -3,7 +3,7 @@ title = "Una piattaforma per la condivisione di appunti"
 date = 2022-10-09
 
 [taxonomies]
-categories = ["altro"]
+categories = []
 +++
 
 Studiare sta diventando difficile?
