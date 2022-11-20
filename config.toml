@@ -20,7 +20,7 @@ default_language = "it"
 
 [languages.it]
 title = "Studenti del Liceo Fermi"
-description = "Il sito degli studenti del Liceo Scientifico E. Fermi di Padova. Creato da Pragmatilista."
+description = "Il sito degli studenti del Liceo Scientifico E. Fermi di Padova. Creato da Pragmalista."
 generate_feed = false
 feed_filename = "atom.xml"
 taxonomies = [
