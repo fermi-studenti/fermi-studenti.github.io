@@ -20,7 +20,7 @@ default_language = "it"
 
 [languages.it]
 title = "Studenti del Liceo Fermi"
-description = "Il sito degli studenti del Liceo Scientifico E. Fermi di Padova. Creato da Pragmalista."
+description = "Il sito degli studenti del Liceo Scientifico E. Fermi di Padova."
 generate_feed = false
 feed_filename = "atom.xml"
 taxonomies = [
@@ -82,7 +82,7 @@ username = "Studenti fermi"
 
 # Footer social links; full options listed in macros/social.html
 [extra.social]
-email = "rappresentanti.fermi@gmail.com"
+# email = "rappresentanti.fermi@gmail.com"
 other = [
     { name = "Instagram", font_awesome = "fa-brands fa-instagram", url = "https://www.instagram.com/liceofermi.rappresentanti/" },
     { name = "Discord", font_awesome = "fa-brands fa-discord", url = "https://discord.gg/wQfZkGRsKH" }
