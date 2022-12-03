@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fermi-studenti.github.io/sitemap.xml
