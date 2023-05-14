@@ -9,10 +9,10 @@ build_search_index = true
 
 theme = "papaya"
 
-taxonomies = [
-    { name = "categories" },
-    { name = "tags" },
-]
+# taxonomies = [
+#     { name = "categories" },
+#     { name = "tags" },
+# ]
 
 default_language = "it"
 
