@@ -1,38 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
-    <title>Studenti del Liceo Fermi - Fare in città</title>
-    <subtitle>Il sito degli studenti del Liceo Scientifico E. Fermi di Padova.</subtitle>
-    <link href="https://fermi-studenti.github.io/tags/fare-in-citta/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://fermi-studenti.github.io"/>
-    <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2022-10-09T00:00:00+00:00</updated>
-    <id>https://fermi-studenti.github.io/tags/fare-in-citta/atom.xml</id>
-    <entry xml:lang="it">
-        <title>Mostra &quot;Andy Warhol. Icona pop&quot;</title>
-        <published>2022-10-09T00:00:00+00:00</published>
-        <updated>2022-10-09T00:00:00+00:00</updated>
-        <author>
-          <name>Unknown</name>
-        </author>
-        <link rel="alternate" href="https://fermi-studenti.github.io/blog/andy-warhol/" type="text/html"/>
-        <id>https://fermi-studenti.github.io/blog/andy-warhol/</id>
-        
-        <summary type="html">&lt;p&gt;Al Centro Culturale Altinate&#x2F;San Gaetano, dal 30 settembre &lt;&#x2F;p&gt;
-</summary>
-        
-    </entry>
-    <entry xml:lang="it">
-        <title>La Settimana della Scienza</title>
-        <published>2022-10-08T00:00:00+00:00</published>
-        <updated>2022-10-08T00:00:00+00:00</updated>
-        <author>
-          <name>Unknown</name>
-        </author>
-        <link rel="alternate" href="https://fermi-studenti.github.io/blog/settimana-scienza/" type="text/html"/>
-        <id>https://fermi-studenti.github.io/blog/settimana-scienza/</id>
-        
-        <summary type="html">&lt;p&gt;La Settimana della Scienza si tratta di un’intera settimana di eventi di divulgazione scientifica che avranno luogo a Padova dal 10 al 16 ottobre 2022.&lt;&#x2F;p&gt;
-</summary>
-        
-    </entry>
+	<title>Studenti del Liceo Fermi - Fare in città</title>
+	<subtitle>Il sito degli studenti del Liceo Scientifico E. Fermi di Padova, creato da Pragmatilista.</subtitle>
+	<link href="https://fermi-studenti.github.io/tags/fare-in-citta/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://fermi-studenti.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-10-09T00:00:00+00:00</updated>
+	<id>https://fermi-studenti.github.io/tags/fare-in-citta/atom.xml</id>
+	<entry xml:lang="it">
+		<title>Mostra &quot;Andy Warhol. Icona pop&quot;</title>
+		<published>2022-10-09T00:00:00+00:00</published>
+		<updated>2022-10-09T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://fermi-studenti.github.io/blog/andy-warhol/" type="text/html"/>
+		<id>https://fermi-studenti.github.io/blog/andy-warhol/</id>
+		<content type="html">&lt;p&gt;Al Centro Culturale Altinate&#x2F;San Gaetano, dal 30 settembre &lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Artika, in collaborazione con l&#x27;Assessorato alla cultura del Comune di Padova e la Fondazione Mazzoleni, organizza una mostra dedicata all&#x27;eccentrico mondo di Andy Warhol, l’icona pop per eccellenza.
+In esposizione, divise in sezioni tematiche, 150 opere tra disegni, incisioni, serigrafie, sculture e postcards del grande artista newyorkese.
+Nel corpus di opere trovano spazio i marchi che popolavano l’immaginario pubblicitario diffuso negli Stati Uniti tra gli anni &#x27;60 e &#x27;70, come la celebre zuppa Campbell&#x27;s e i volti delle icone dello spettacolo, da Mick Jagger a Sylvester Stallone, fino alla mitica Marilyn.&lt;&#x2F;p&gt;
+&lt;p&gt;La mostra è curata da Simona Occioni. Il percorso espositivo è a cura di Daniel Buso e Alessandra Mazzoleni.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;www.padovanet.it&#x2F;sites&#x2F;default&#x2F;files&#x2F;images&#x2F;190%20Andy%20Warhol.%20Icona%20Pop%20%28ori%29.jpg&quot; alt=&quot;Warhol&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;hr&gt;
+&lt;p&gt;Potete trovare più informazioni su questo evento su:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.padovanet.it&#x2F;evento&#x2F;mostra-andy-warhol-icona-pop&quot;&gt;Padova.net&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="it">
+		<title>La Settimana della Scienza</title>
+		<published>2022-10-08T00:00:00+00:00</published>
+		<updated>2022-10-08T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://fermi-studenti.github.io/blog/settimana-scienza/" type="text/html"/>
+		<id>https://fermi-studenti.github.io/blog/settimana-scienza/</id>
+		<content type="html">&lt;p&gt;La Settimana della Scienza si tratta di un’intera settimana di eventi di divulgazione scientifica che avranno luogo a Padova dal 10 al 16 ottobre 2022.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Potete trovare più informazioni su questo evento su:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.padovanet.it&#x2F;evento&#x2F;iniziativa-la-settimana-della-scienza-2022&quot;&gt;Padova.net&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;premiogalileo.eu&#x2F;la-settimana-della-scienza&#x2F;&quot;&gt;Premio Galileo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 </feed>
