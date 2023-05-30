@@ -1,6 +1,7 @@
 +++
-title = "Formula 1 - Filippo Lombardi"
+title = "Formula 1"
 date = 2023-05-14
+author = "Filippo Lombardi"
 
 [taxonomies]
 tags = ["Sport"]
