@@ -84,3 +84,10 @@ Come noterete ci sono alcuni edizioni mancanti, se riuscite a trovarle comunicat
 ### Edizione 2
 <iframe src="/giornalino/Fermi_Un_Atomo_2020-2021_edizione_seconda_compressed.pdf" width="100%" height="500px"> 
 </iframe>
+
+## Anno scolastico 2022/2023
+
+### Edizione 1
+<iframe src="/giornalino/Fermi_un_atomo_2022-2023.pdf" width="100%" height="500px"> 
+</iframe>
+
