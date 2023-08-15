@@ -68,6 +68,8 @@ menu_items = [
     { name = "about", url = "$LANG_BASE_URL/about", show_recent = false },
 ]
 
+color_mode = "auto"
+
 [extra.images]
 # Width defined in pixels
 max_width = 2500
