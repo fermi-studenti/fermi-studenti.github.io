@@ -1,5 +1,5 @@
 +++
-title = "Formula 1"
+title = "Formula 1 - Filippo Lombardi"
 date = 2023-05-14
 author = "Filippo Lombardi"
 

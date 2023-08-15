@@ -6,7 +6,7 @@ date = 2022-10-09
 categories = ["scuola"]
 +++
 
-La "mappa" della scuola che viene fornita agli studenti ogni anno fa schifo, quindi spiego qui come usarla.
+Mappa migliore di quella che trovate in giro per i corridoi.
 <!-- more -->
 
 Entrando a scuola il primo giorno dell'anno, troverete qualcosa assomigliante a questo:

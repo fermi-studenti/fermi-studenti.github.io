@@ -32,6 +32,7 @@ taxonomies = [
 [languages.it.translations]
 projects = "Articoli"
 blog = "Blog"
+giornalino = "Giornalino"
 about = "Info"
 recent_projects = "Articoli recenti"
 more_projects = "Più articoli"
@@ -64,6 +65,7 @@ env = "ZOLA_ENV"
 menu_items = [
     { name = "projects", url = "$LANG_BASE_URL/projects", show_recent = true, recent_items = 3, recent_trans_key = "recent_projects", more_trans_key = "more_projects" },
     { name = "blog", url = "$LANG_BASE_URL/blog", show_recent = true, recent_items = 3, recent_trans_key = "recent_blog_posts", more_trans_key = "more_blog_posts" },
+    { name = "giornalino", url = "$LANG_BASE_URL/giornalino", show_recent = false, recent_items = 3, recent_trans_key = "recent_blog_posts", more_trans_key = "more_blog_posts" },
     # tag is not a zola section, it's just a link.
     { name = "tags", url = "$LANG_BASE_URL/tags" },
     { name = "about", url = "$LANG_BASE_URL/about", show_recent = false },

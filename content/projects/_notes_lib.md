@@ -9,7 +9,7 @@ categories = []
 Studiare sta diventando difficile?
 <!-- more -->
 
-[La biblioteca degli appunti](https://notes-lib.github.io/#/) è un progetto creato da Grigory Vodyanov di Pragmatilista. È una piattaforma dove tutti possono condividere liberamente appunti.
+[La biblioteca degli appunti](https://notes-lib.github.io/#/) è un progetto creato da Grigory Vodyanov. È una piattaforma dove tutti possono condividere liberamente appunti.
 
 - Si possono lasciare like e commenti per indicare la qualità di determinati appunti.
 
