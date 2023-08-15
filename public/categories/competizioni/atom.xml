@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
-	<title>Studenti del Liceo Fermi - competizioni</title>
-	<subtitle>Il sito degli studenti del Liceo Scientifico E. Fermi di Padova, creato da Pragmatilista.</subtitle>
-	<link href="https://fermi-studenti.github.io/categories/competizioni/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://fermi-studenti.github.io"/>
-	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-10-09T00:00:00+00:00</updated>
-	<id>https://fermi-studenti.github.io/categories/competizioni/atom.xml</id>
-	<entry xml:lang="it">
-		<title>EOES</title>
-		<published>2022-10-09T00:00:00+00:00</published>
-		<updated>2022-10-09T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://fermi-studenti.github.io/projects/eoes/" type="text/html"/>
-		<id>https://fermi-studenti.github.io/projects/eoes/</id>
-		<content type="html">&lt;p&gt;Ogni anno il Fermi partecipale al &lt;em&gt;European Olympiad of Experimental Science&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
-&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
-&lt;p&gt;Le olimpiadi della scienza sperimentale sono rivolti a studenti che hanno meno di 18 anni e sono divisi in tre sezioni: fisica, chimica, e biologia. Dopo aver passato il concorso dell&#x27;istituto si passa a quello regionale, poi regionale, nazionale, ed eventualmente quello europeo. Si partecipa in gruppi da 3: di solito avendo una persona per fisica, una per chimica, e una per biologia. Tra poco dovrebbero essere aperti le iscrizioni per i corsi preparativi.&lt;&#x2F;p&gt;
-&lt;p&gt;Potete trovare più informazioni sul &lt;a href=&quot;https:&#x2F;&#x2F;eoes.science&#x2F;&quot;&gt;sito ufficiale&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-</content>
-	</entry>
+    <title>Studenti del Liceo Fermi - competizioni</title>
+    <subtitle>Il sito degli studenti del Liceo Scientifico E. Fermi di Padova.</subtitle>
+    <link href="https://fermi-studenti.github.io/categories/competizioni/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://fermi-studenti.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-10-09T00:00:00+00:00</updated>
+    <id>https://fermi-studenti.github.io/categories/competizioni/atom.xml</id>
+    <entry xml:lang="it">
+        <title>EOES</title>
+        <published>2022-10-09T00:00:00+00:00</published>
+        <updated>2022-10-09T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://fermi-studenti.github.io/projects/eoes/" type="text/html"/>
+        <id>https://fermi-studenti.github.io/projects/eoes/</id>
+        
+        <summary type="html">&lt;p&gt;Ogni anno il Fermi partecipale al &lt;em&gt;European Olympiad of Experimental Science&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
 </feed>
