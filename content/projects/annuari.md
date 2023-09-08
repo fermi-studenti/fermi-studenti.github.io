@@ -13,7 +13,7 @@ Se avete un pochino di tempo vi consiglio fortemente di dare un'occhiata a quest
 
 
 ### Annuario 30°
-<iframe src="/annuari/Fermi Annuario 1999 cs6 2023.pdf" width="100%" height="500px">
+<iframe src="/annuari/Fermi Annuario 1999_ok.pdf" width="100%" height="500px">
 </iframe>
 
 ### Annuario 40°
