@@ -32,6 +32,7 @@ function getData() {
     .get('https://notes-lib-2.000webhostapp.com/readReports.php')
     .then((response) => {
       reports.value = response;
+      reports.value.data = reports.value.data.reverse();
   })
 }
 </script>
