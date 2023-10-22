@@ -58,7 +58,7 @@ function getData() {
 
     <div class="report-container">
 
-      <div class="report" v-for="report in reports.data.reverse()" :key="report.id">
+      <div class="report" v-for="report in reports.data" :key="report.id">
         <h3>{{ report.author }}, <em>{{ report.date }}</em></h3>
         <p>{{ report.content }}</p>
       </div>
