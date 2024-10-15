@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
+    <title>Studenti del Liceo Fermi - Volontariato</title>
+    <subtitle>Il sito degli studenti del Liceo Scientifico E. Fermi di Padova.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://fermi-studenti.github.io/tags/volontariato/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://fermi-studenti.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-08-15T00:00:00+00:00</updated>
+    <id>https://fermi-studenti.github.io/tags/volontariato/atom.xml</id>
+    <entry xml:lang="it">
+        <title>Pigiama run 2023</title>
+        <published>2023-08-15T00:00:00+00:00</published>
+        <updated>2023-08-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fermi-studenti.github.io/blog/pigiama-run-2023/"/>
+        <id>https://fermi-studenti.github.io/blog/pigiama-run-2023/</id>
+        
+        <summary type="html">&lt;p&gt;Vorresti aiutare ad organizzare un progetto di beneficienza?&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

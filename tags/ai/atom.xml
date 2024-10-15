@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
+    <title>Studenti del Liceo Fermi - AI</title>
+    <subtitle>Il sito degli studenti del Liceo Scientifico E. Fermi di Padova.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://fermi-studenti.github.io/tags/ai/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://fermi-studenti.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-06-01T00:00:00+00:00</updated>
+    <id>https://fermi-studenti.github.io/tags/ai/atom.xml</id>
+    <entry xml:lang="it">
+        <title>AI e Formula 1 - Thomas Bonsembiante</title>
+        <published>2023-06-01T00:00:00+00:00</published>
+        <updated>2023-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fermi-studenti.github.io/giornalino/ai-e-formula-1-thomas-bonsembiante/"/>
+        <id>https://fermi-studenti.github.io/giornalino/ai-e-formula-1-thomas-bonsembiante/</id>
+        
+        <content type="html" xml:base="https://fermi-studenti.github.io/giornalino/ai-e-formula-1-thomas-bonsembiante/">&lt;p&gt;No, non è come pensate; le AI non prenderanno il posto dei piloti, e
+nemmeno quello degli strateghi al muretto (anche se in Ferrari ce ne
+sarebbe bisogno viste le strategie del 2022...).&lt;&#x2F;p&gt;
+&lt;p&gt;La stagione 2023 di Formula 1 è alle porte, tutte le vetture sono state
+presentate e tra poco ci saranno i test pre-stagionali in Bahrain, dove
+le vetture si mostreranno realmente per la prima volta.&lt;&#x2F;p&gt;
+&lt;p&gt;Non sapendo che fare aspettando che ricominci il campionato, negli
+ultimi giorni mi sono perso a fare delle domande a ChatGPT sulla F1,
+trattando temi di vario genere, partendo dai classici pronostici fino ad
+arrivare al celeberrimo Gran Premio di Abu Dhabi 2021.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conosci-la-formula-1&quot;&gt;Conosci la Formula 1?&lt;a class=&quot;zola-anchor&quot; href=&quot;#conosci-la-formula-1&quot; aria-label=&quot;Anchor link for: conosci-la-formula-1&quot;&gt;
+    &lt;svg class=&quot;zola-anchor-link&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;
+        &lt;path fill-rule=&quot;evenodd&quot;
+            d=&quot;M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z&quot;&gt;
+        &lt;&#x2F;path&gt;
+    &lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;&quot;Sì, conosco la Formula 1! La Formula 1 è una categoria di corse
+automobilistiche a livello mondiale, dove i team di costruttori di auto
+da corsa competono su circuiti di tutto il mondo in una serie di gare.
+La F1 è molto popolare in tutto il mondo e attira l&#x27;attenzione di
+milioni di appassionati di motorsport. Ci sono molti aspetti
+interessanti della Formula 1, come la tecnologia avanzata utilizzata
+nelle auto da corsa, le tattiche di corsa, i piloti e i team che
+competono, e le diverse dinamiche che si sviluppano durante la
+stagione.&quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Domanda classica giusto per iniziare, nulla da dire al riguardo.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;vorrei-che-mi-facessi-un-pronostico-riguardo-alla-stagione-2023&quot;&gt;Vorrei che mi facessi un pronostico riguardo alla stagione 2023.&lt;a class=&quot;zola-anchor&quot; href=&quot;#vorrei-che-mi-facessi-un-pronostico-riguardo-alla-stagione-2023&quot; aria-label=&quot;Anchor link for: vorrei-che-mi-facessi-un-pronostico-riguardo-alla-stagione-2023&quot;&gt;
+    &lt;svg class=&quot;zola-anchor-link&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;
+        &lt;path fill-rule=&quot;evenodd&quot;
+            d=&quot;M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z&quot;&gt;
+        &lt;&#x2F;path&gt;
+    &lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;&quot;Posso fare alcune ipotesi basate sui trend attuali e sulle performance
+passate dei piloti e dei team, ma è importante sottolineare che non
+posso garantire che queste previsioni si avvereranno. Molte cose possono
+accadere durante una stagione di Formula 1 e influenzare il risultato
+finale, quindi bisogna sempre prendere le previsioni con una certa
+cautela.&lt;&#x2F;p&gt;
+&lt;p&gt;Detto questo, alcuni team e piloti sembrano avere buone chance per il
+successo nella stagione 2023. Ad esempio, la scuderia Mercedes ha vinto
+sette campionati costruttori consecutivi e potrebbe continuare ad essere
+una forza dominante anche nella stagione 2023. Anche la Red Bull Racing
+ha dimostrato di avere una forte performance negli ultimi anni, e
+potrebbe essere un&#x27;altra candidata al titolo.&lt;&#x2F;p&gt;
+&lt;p&gt;Per quanto riguarda i piloti, Lewis Hamilton, attuale campione del mondo
+e pilota della Mercedes, ha dimostrato di essere uno dei migliori piloti
+della storia della Formula 1, e potrebbe essere un forte candidato per
+il titolo anche nella stagione 2023. Altri piloti come Max Verstappen
+della Red Bull Racing e Charles Leclerc della Ferrari hanno dimostrato
+di avere un grande potenziale, e potrebbero sfidare Hamilton per il
+titolo.&quot;&lt;&#x2F;p&gt;
+&lt;p&gt;E qui ci sarebbero alcune cose da dire: innanzitutto ChatGPT mette le
+mani avanti, dicendo come effettivamente fare dei pronostici non sia
+semplice e potrebbero essere errati; prosegue dando come favoriti al
+titolo Hamilton, con Verstappen e Leclerc che potrebbero dargli del filo
+da torcere. Fin qui tutto bene, se non per un particolare: i titoli
+costruttori vinti da Mercedes (7 secondo ChatGPT, 8 effettivi). Questo è
+dovuto non proprio ad un errore di ChatGPT, ma piuttosto al fatto che le
+conoscenze del bot sono limitate fino alla fine del 2021, quindi non
+conosce i fatti avvenuti nel 2022.&lt;&#x2F;p&gt;
+&lt;p&gt;Quindi, deciso a volere un pronostico che potesse essere verosimile, ho
+chiesto un pronostico della stagione 2021, basandosi sul 2020.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fai finta di non conoscere come sia andata la stagione 2021 di Formula
+1 e che siamo alle porte del suo inizio. Analizzando la stagione 2020
+potresti fare dei pronostici per la stagione 2021?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&quot;Certo, faccio finta che siamo nei primi mesi del 2021 e che la stagione
+2021 di Formula 1 stia per iniziare. Analizzando la stagione 2020, è
+possibile fare alcune previsioni su cosa potrebbe accadere nella
+stagione 2021, ma bisogna anche considerare che ci sono sempre nuove
+variabili e sorprese nella Formula 1.&lt;&#x2F;p&gt;
+&lt;p&gt;Basandomi sulla stagione 2020, posso dire che la scuderia Mercedes
+sembra essere ancora la favorita per la stagione 2021. La squadra ha
+vinto sette campionati costruttori consecutivi e sembra avere una solida
+base tecnica e di piloti. Lewis Hamilton, che ha vinto il titolo piloti
+nel 2020, sembra ancora essere il pilota da battere, ma ci sono altri
+piloti molto competitivi come Max Verstappen della Red Bull Racing e
+Charles Leclerc della Ferrari, che potrebbero sfidare Hamilton per il
+titolo.&lt;&#x2F;p&gt;
+&lt;p&gt;Inoltre, la Ferrari sembra essere molto motivata a riscattarsi dopo una
+stagione deludente nel 2020 e potrebbe essere un&#x27;altra forza da tenere
+d&#x27;occhio nella stagione 2021. Altri team come la Red Bull Racing e la
+Racing Point (ora Aston Martin) hanno dimostrato di avere un grande
+potenziale e potrebbero mettere in difficoltà i leader del campionato.&lt;&#x2F;p&gt;
+&lt;p&gt;Detto questo, la Formula 1 è una competizione molto imprevedibile e
+molte cose possono accadere durante una stagione, quindi bisogna sempre
+prendere le previsioni con una certa cautela. Sono curioso di vedere
+cosa accadrà nella stagione 2021!&quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Questa sembra essere una previsione verosimile (tralasciando le false
+speranze per la Ferrari): effettivamente nel 2021 Verstappen ha tenuto
+testa ad Hamilton, riuscendo a batterlo.&lt;&#x2F;p&gt;
+&lt;p&gt;Ho poi deciso di far fare un po&#x27; di autocritica a ChatGPT, non ottenendo
+gran ché.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Ora, considera che la stagione 2021 si è appena conclusa: il mondiale
+piloti è stato vinto da Max Verstappen all&#x27;ultimo giro dell&#x27;ultima
+gara, mandando Hamilton a casa a mani vuote. La Ferrari ha fatto
+un&#x27;altra stagione piuttosto deludente, anche se migliore di quella
+dell&#x27;anno scorso. Conoscendo come è andata a finire, come valuteresti i
+tuoi pronostici per la stagione 2021?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&quot;Ora che so come è andata la stagione 2021 di Formula 1, posso dire che
+i miei pronostici erano solo una previsione e che molte cose
+imprevedibili possono accadere durante una stagione. Sono contento di
+sapere che Max Verstappen ha vinto il titolo piloti, dimostrando di
+essere uno dei migliori piloti della categoria e che la Mercedes non ha
+vinto il campionato costruttori per la prima volta dal 2013. Anche se la
+Ferrari non ha avuto una stagione molto competitiva, sono contento di
+sapere che ha comunque fatto progressi rispetto alla stagione
+precedente.&lt;&#x2F;p&gt;
+&lt;p&gt;La Formula 1 è una competizione molto competitiva e le cose possono
+cambiare molto rapidamente, soprattutto quando ci sono cambiamenti nei
+regolamenti o nella composizione dei team. In generale, i miei
+pronostici si basavano su quello che avevo visto nella stagione
+precedente e sulle prestazioni dei team e dei piloti, ma non si possono
+prevedere con certezza tutti gli eventi che possono accadere.&lt;&#x2F;p&gt;
+&lt;p&gt;In ogni caso, la stagione 2021 sembra essere stata molto competitiva e
+ha visto molte sorprese e gare emozionanti. Sono felice di vedere che la
+Formula 1 continua ad evolversi e a regalarci grandi momenti di sport e
+di adrenalina.&quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Piccolo errore per quanto riguarda la vittoria del titolo costruttori,
+che ChatGPT attribuisce a Red Bull e non a Mercedes; insomma, ChatGPT
+non tifa il team di Brackley, non essendo la prima volta che gli toglie
+un titolo costruttori.&lt;&#x2F;p&gt;
+&lt;p&gt;A questo punto mi è tornata alla mente l&#x27;ultima gara del 2021, Abu
+Dhabi.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conosci-i-fatti-accaduti-durante-la-gara-ad-abu-dhabi-2021&quot;&gt;Conosci i fatti accaduti durante la gara ad Abu Dhabi 2021?&lt;a class=&quot;zola-anchor&quot; href=&quot;#conosci-i-fatti-accaduti-durante-la-gara-ad-abu-dhabi-2021&quot; aria-label=&quot;Anchor link for: conosci-i-fatti-accaduti-durante-la-gara-ad-abu-dhabi-2021&quot;&gt;
+    &lt;svg class=&quot;zola-anchor-link&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;
+        &lt;path fill-rule=&quot;evenodd&quot;
+            d=&quot;M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z&quot;&gt;
+        &lt;&#x2F;path&gt;
+    &lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;&quot;Sì, ho seguito i fatti accaduti durante la gara di Abu Dhabi del 2021.
+Durante l&#x27;ultima gara della stagione, ci sono stati alcuni eventi
+controversi che hanno scatenato molte discussioni e polemiche. In
+particolare, la gara è stata interrotta a causa di un incidente in cui
+la vettura di Nicholas Latifi ha colpito il muretto e ha causato la
+rottura della barriera di protezione.&lt;&#x2F;p&gt;
+&lt;p&gt;La direzione gara ha deciso di fermare la gara con una bandiera rossa,
+in modo da poter riparare la barriera di protezione e garantire la
+sicurezza dei piloti. Questo ha portato a un&#x27;interessante strategia
+delle due squadre in lotta per il titolo, la Mercedes e la Red Bull.&lt;&#x2F;p&gt;
+&lt;p&gt;Nel frattempo, la pista è stata ripulita dalle macchine di sicurezza e
+la gara è ripartita con una griglia d&#x27;inizio completamente nuova.
+Durante il processo di formazione della griglia, il pilota della
+Mercedes, Lewis Hamilton, ha scelto di fare una sosta ai box per montare
+pneumatici nuovi, cosa che non aveva fatto la Red Bull. Questo ha
+portato alla decisione della Red Bull di portare in pista il proprio
+pilota, Max Verstappen, per fare un giro di ricognizione supplementare.&lt;&#x2F;p&gt;
+&lt;p&gt;La scelta di Verstappen si è rivelata vincente, perché la gara è ripresa
+per un solo giro, durante il quale Verstappen è riuscito a sorpassare
+Hamilton e a vincere la gara e il campionato mondiale piloti. Questo ha
+suscitato molte polemiche e dibattiti, poiché molti hanno sostenuto che
+la decisione della Red Bull di portare in pista Verstappen per il giro
+di ricognizione supplementare non fosse leale nei confronti degli altri
+piloti e che avesse creato un ingiusto vantaggio per il pilota olandese.&lt;&#x2F;p&gt;
+&lt;p&gt;In ogni caso, è stata una gara molto intensa e avvincente, che ha tenuto
+con il fiato sospeso tutti i tifosi della Formula 1 fino all&#x27;ultimo
+giro.&quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Un po&#x27; di confusione su come sia andata effettivamente la gara, anche se
+alla fine ChatGPT ha dato la vittoria a Verstappen. Come la matematica
+ci insegna &quot;modificando l&#x27;ordine degli addendi il risultato non cambia&quot;
+(più o meno).&lt;&#x2F;p&gt;
+&lt;p&gt;Dopo aver sistemato le idee al chatbot riguardo i fatti, ho chiesto una
+sua opinione sulle decisioni prese dal direttore di gara Michael Masi.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Comunque, come reputi le scelte prese dal direttore di gara Masi?
+Trovi che fossero conformi al regolamento o no?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&quot;La decisione presa dal direttore di gara Masi di far entrare la Safety
+Car in pista alla fine della gara, invece di esporre la bandiera rossa
+per sospendere la gara, è stata molto discussa e ha suscitato diverse
+polemiche.&lt;&#x2F;p&gt;
+&lt;p&gt;Il regolamento sportivo della F1 prevede che, in caso di incidente grave
+o di pericolo per la sicurezza dei piloti, la gara possa essere sospesa
+con l&#x27;esposizione della bandiera rossa. In questo caso, la Safety Car
+avrebbe portato le monoposto in pit lane, dove sarebbero state
+parcheggiate per una eventuale ripartenza.&lt;&#x2F;p&gt;
+&lt;p&gt;Invece, alla fine della gara, Masi ha deciso di far entrare la Safety
+Car in pista per neutralizzare la corsa e far ripartire la gara con un
+ultimo giro al termine del quale Verstappen ha superato Hamilton per
+conquistare il titolo.&lt;&#x2F;p&gt;
+&lt;p&gt;Alcuni hanno sostenuto che la decisione di Masi di far ripartire la gara
+alla fine sotto regime di Safety Car non sia stata in linea con il
+regolamento, poiché non era stata esposta la bandiera rossa. Tuttavia,
+la FIA ha confermato che la decisione di Masi era in linea con il
+regolamento e che era stata presa in base alle condizioni di pista e
+alle considerazioni di sicurezza.&lt;&#x2F;p&gt;
+&lt;p&gt;In ogni caso, la decisione di Masi ha creato molte discussioni e
+polemiche, con diverse opinioni contrastanti sulla sua correttezza.&quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Questo lo sapevamo già; io però cercavo una valutazione delle scelte di
+Masi da parte del bot.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Basandoti unicamente su ciò che è scritto sul regolamento ufficiale
+della Formula 1, diresti che la decisione di Masi sia conforme?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&quot;Basandomi unicamente sul regolamento ufficiale della Formula 1, posso
+dire che la decisione di Masi potrebbe non essere conforme. Il
+regolamento stabilisce che se un pilota che sta seguendo l&#x27;auto di
+sicurezza entra nei box, gli altri piloti non possono superare l&#x27;auto
+di sicurezza. In questo caso, il regolamento non specifica cosa accade
+se un pilota non segue l&#x27;auto di sicurezza e va ai box mentre la pista
+è chiusa.&lt;&#x2F;p&gt;
+&lt;p&gt;In ogni caso, il regolamento stabilisce anche che la direzione di gara
+può &quot;chiedere ai piloti di rallentare e di non superare l&#x27;auto di
+sicurezza&quot;, quindi la decisione di Masi di dire ai piloti di non
+sorpassare potrebbe essere considerata in linea con il regolamento.
+Tuttavia, il fatto che Masi abbia dato istruzioni diverse ai team
+potrebbe aver creato confusione e polemiche.&quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Anche qui c&#x27;è della confusione, in quanto ChatGPT afferma prima che Masi
+ha sbagliato, per poi tornare sui suoi passi e dargli ragione. Sus...&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Ora portiamoci un po&#x27; nel futuro. Secondo te, quando le AI saranno
+più sviluppate, potremmo vedere una F1 senza piloti, ma con macchine
+completamente a guida autonoma pilotate da delle AI sviluppate per fare
+sempre giri perfetti in base ai dati forniti dalla vettura?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&quot;È difficile fare previsioni precise sul futuro della Formula 1 e su
+come l&#x27;evoluzione della tecnologia potrebbe influenzare la
+competizione. Tuttavia, è possibile ipotizzare che con lo sviluppo di
+tecnologie avanzate di guida autonoma, potrebbe essere possibile vedere
+vetture senza pilota in pista in futuro. Tuttavia, la guida autonoma
+potrebbe privare la competizione dell&#x27;elemento umano che è al momento
+un aspetto fondamentale della Formula 1. Inoltre, ci sono molte
+considerazioni di sicurezza che devono essere affrontate prima che una
+macchina completamente autonoma possa gareggiare in sicurezza con altre
+vetture sul circuito. Detto questo, ci sono anche molte sfide tecniche e
+regolamentari da superare prima che una gara di Formula 1 completamente
+autonoma possa diventare una realtà.&quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Ecco la domanda a cui tutti cercavano risposta una volta letto il titolo
+di questo articolo. Per tutti i veri appassionati è sicuramente un
+sospiro di sollievo.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Abbiamo parlato di AI al volante, ma se invece delle vetture fossero
+le strategie ad essere pensate e create da delle AI? Uno scenario in F1
+di questo tipo è possibile?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&quot;Sì, un&#x27;AI potrebbe essere utilizzata per sviluppare strategie di gara
+per la Formula 1. In effetti, molte squadre di Formula 1 già utilizzano
+algoritmi e analisi dati avanzati per aiutare a prendere decisioni sulla
+strategia di gara. Con l&#x27;aumento della potenza di calcolo e
+l&#x27;evoluzione delle tecniche di intelligenza artificiale, potrebbe
+diventare possibile utilizzare modelli di apprendimento automatico per
+sviluppare strategie di gara ancora più avanzate. Tuttavia, come per
+l&#x27;idea di vetture completamente a guida autonoma, ci sarebbero molte
+questioni etiche e di sicurezza da considerare prima di adottare una
+soluzione del genere.&quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Qui mi è venuta in mente &quot;l&#x27;idea del secolo&quot; (di sicuro...): proviamo a
+far creare una strategia di gara a ChatGPT. Dopo svariati tentativi,
+sono riuscito ad avere una risposta sensata.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Ora, fai finta di essere l&#x27;addetto alle strategie di un team di F1.
+Ci troviamo nel circuito di Monza durante il Gran Premio. Siamo al giro
+21 su 52 e il tuo pilota monta delle gomme morbide di 21 giri. La durata
+di un treno di gomme morbide è stata stimata di circa 23 giri a Monza,
+però il meteo sta cambiando. La gara è iniziata sull&#x27;asciutto, ma entro
+il giro 27 si prevede l&#x27;arrivo di un&#x27;acquazzone estivo, che renderà la
+pista completamente fradicia. La pista non si asciugherà, rimanendo
+bagnata fino alla fine della gara. La probabilità che la pioggia arrivi
+prima del giro 27 (entro 3 giri prima) è del 20%, mentre che arrivi dopo
+il giro 27 (entro 3 giri dopo) è dell&#x27;80%. Considera che c&#x27;è comunque
+la possibilità che il vento cambi direzione, non facendo mai arrivare la
+pioggia. Le gomme full wet, che saranno necessarie se la pioggia
+arriverà, possono durare fino alla fine della gara, ma solo se la pista
+rimarrà sufficientemente bagnata. Le gomme full wet non performano
+sull&#x27;asciutto. Nel caso in cui la pioggia non arrivi, la scelta ricade
+sulle altre due mescole da asciutto, le medie e le dure. Le gomme medie
+ti permettono di avere più velocità ma meno durata della gomma; le gomme
+dure hanno una durata maggiore ma meno velocità. Entrambe le mescole
+medie e dure ti permetteranno di arrivare in fondo alla gara. Le gomme
+morbide montate attualmente sulla macchina del tuo pilota dureranno al
+massimo fino al giro 30 prima di esplodere e causare il ritiro del
+pilota; quindi entro il giro 30 dovrà per forza essere effettuato il pit
+stop. Il tuo pilota si trova in seconda posizione e sta lottando per la
+vittoria, ma non ha un passo abbastanza veloce per stare dietro al
+primo. L&#x27;unico modo per vincere la gara è usare una strategia perfetta.
+Considerando tutte queste variabili, che strategia utilizzeresti per
+vincere? Ricorda che l&#x27;obbiettivo è quello di effettuare meno pit stop
+possibili, e che l&#x27;effettuazione di almeno 1 pit stop è obbligatoria;
+inoltre non è possibile montare nuovamente delle gomme morbide.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&quot;In questa situazione, la strategia ideale dipende principalmente dal
+momento in cui arriverà la pioggia. Nel caso in cui la pioggia arrivi
+entro il giro 24, la scelta migliore sarebbe quella di effettuare un pit
+stop immediato e montare le gomme medie. In questo modo, il pilota
+sarebbe in grado di guidare con gomme fresche sulla pista asciutta,
+guadagnando il maggior vantaggio possibile prima dell&#x27;arrivo della
+pioggia. Nel caso in cui la pioggia arrivi dopo il giro 27, la scelta
+migliore sarebbe quella di mantenere il pilota in pista e provare a
+ritardare il pit stop il più possibile. In questo modo, il pilota
+sarebbe in grado di guadagnare il maggior vantaggio possibile sulla
+pista asciutta con le gomme morbide prima di passare alle gomme full
+wet. Se la pioggia arriva tra il giro 24 e il giro 27, la scelta
+migliore sarebbe quella di monitorare attentamente la situazione
+meteorologica e decidere in base alle previsioni meteo più recenti.&lt;&#x2F;p&gt;
+&lt;p&gt;In generale, la strategia migliore dovrebbe puntare a effettuare il
+minor numero possibile di pit stop, preferibilmente solo uno, per
+evitare di perdere tempo in pit lane e sulle gomme. Dato che il cambio
+gomme è obbligatorio, sarebbe bene pianificare il pit stop prima che le
+gomme morbide attuali si consumino completamente, ma senza effettuarlo
+troppo presto e rischiare di trovarsi con le gomme sbagliate sulla
+pista. La scelta della mescola da asciutto dovrebbe essere fatta in base
+alla performance del pilota e alla durata della gomma, tenendo conto che
+le gomme morbide non possono essere riutilizzate. Se la pioggia arriva,
+l&#x27;obiettivo principale diventa mantenere il pilota in pista il più a
+lungo possibile con le gomme asciutte, per poi effettuare il cambio alle
+gomme full wet quando la pista diventa troppo bagnata per le gomme da
+asciutto.&quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Ecco a voi la &quot;strategia perfetta&quot;... ok non proprio, però è un buon
+punto di partenza. C&#x27;è della confusione per quanto riguarda l&#x27;arrivo
+della pioggia al giro 24: la cosa migliore sarebbe tirare dal giro 21 al
+24 con le morbide, per poi mettere le full wet, e non fare un pit stop,
+montare le medie per poi dover fare un altro pit stop e montare gomme
+full wet. Fare pit stop subito avrebbe senso solo se la pioggia non
+arrivasse. Comunque alla fine, ChatGPT azzecca la filosofia di come
+andrebbe fatta una strategia. Forse Rueda (stratega Ferrari) dovrebbe
+farsi dare un paio di consigli.&lt;&#x2F;p&gt;
+&lt;p&gt;Detto questo, se il video vi è piaciuto lasciate un like e cond- AH NO,
+non è un video.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="it">
+        <title>Musica e AI - Davide Soldà</title>
+        <published>2023-06-01T00:00:00+00:00</published>
+        <updated>2023-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fermi-studenti.github.io/giornalino/musica-e-ai-davide-solda/"/>
+        <id>https://fermi-studenti.github.io/giornalino/musica-e-ai-davide-solda/</id>
+        
+        <content type="html" xml:base="https://fermi-studenti.github.io/giornalino/musica-e-ai-davide-solda/">&lt;p&gt;L’intelligenza artificiale ha invaso il mondo dei creativi e della creatività, anche
+di coloro che si occupano di produzione musicale. Google non è rimasto con le
+mani in mano e recentemente ha fornito prove concrete con la sua AI,
+MusicLM, un nuovo modello di intelligenza artificiale capace di generare
+musica anche solo da un semplice testo. Anche in fase beta, i risultati sono
+stati sbalorditivi. Il team di sviluppo del dipartimento di ricerca di Alphabet ha
+affermato che MusicLM ha superato ogni aspettativa “sia in termini di qualità
+audio che di vicinanza e correlazione alla descrizione del testo”.&lt;&#x2F;p&gt;
+&lt;p&gt;Il processo di generazione musicale condizionato come attività conferma la
+“modellazione gerarchica da sequenza a sequenza” (…) a produrre in modo
+autonomo musica a 24bit a 48kHz o 44100Hz. Oltre a poter creare da zero
+musica in alta risoluzione direttamente da un testo, il machine learning da un
+attento training impara da canzoni canticchiate o fischiettate e attraverso
+melodie differenti. “Questi approcci possono essere combinati tra loro
+aprendo ogni sorta di possibilità creativa”, precisano dal blog di Alphabet.&lt;&#x2F;p&gt;
+&lt;p&gt;Per dimostrare il potenziale di MusicLM, Google ha rilasciato una moltitudine
+di clip audio accompagnate dal testo utilizzato per crearle. Ma i generatori di
+musica basati sull’intelligenza artificiale sono infiniti, ormai, e possono anche
+utilizzare reti neurali e algoritmi di apprendimento automatico atte a valutare
+la musica esistente e produrre nuove composizioni. Ecco altri generatori di
+musica basati sull’AI. E qualche outsider.&lt;&#x2F;p&gt;
+&lt;p&gt;AIVA: La capacità dell’intelligenza artificiale di creare musica per brani previ,
+jingle e spot pubblicitari, videogiochi, mini colonne sonore per film e per altri
+media oltre che sonorizzazioni ad hoc per qualsiasi attività audiovisiva.&lt;&#x2F;p&gt;
+&lt;p&gt;Ecretta Music Chiunque può creare clip musicali con Ecrett Music, che va
+auto training su flussi di migliaia di ore di musica. Sia i professionisti che i
+principianti troveranno il programma abbastanza intuitivo. Viene fornito con
+un generatore di brani royalty-free, quindi puoi produrre musica per qualsiasi
+videogame o clip video evitando licenze di sorta.
+Soundraw Consente di modificare una canzone con frasi generate dall’IA: si
+basa su una combinazione di intelligenza artificiale e di strumenti manuali,
+che, insieme, semplificano la creazione e l’arrangiamento di nuova musica.&lt;&#x2F;p&gt;
+&lt;p&gt;Boomy Consente agli utenti di produrre canzoni originali in pochi secondi.
+Perfetto per chi si avvicina solo ora alla produzione musicale. L’AI scrive e crea
+un’intera canzone in pochi secondi dopo aver valutato alcuni criteri.&lt;&#x2F;p&gt;
+&lt;p&gt;MuseNet Creata da OpenAI, il programma può produrre canzoni utilizzando
+fino a dieci diversi strumenti musicali per un massimo di 15 stili diversi. La sua
+capacità nell’imitare maestri compositori contemporanei e famosi come
+Mozart la rende davvero unica.&lt;&#x2F;p&gt;
+&lt;p&gt;Amadeus Code Compone rapidamente melodie con iOSsoftware. Il motore
+AI all’interno utilizza progressioni di accordi di alcune delle canzoni più famose
+della storia. I file audio e MIDI possono essere esportati.&lt;&#x2F;p&gt;
+&lt;p&gt;Chrome’s Song Maker L’applicazione strutturata su web di Chrome
+consente agli utenti di comporre e modificare la musica utilizzando
+un’interfaccia di facile utilizzo. Gli utenti possono organizzare i suoni usando
+una griglia utile per produrre beat, melodie e progressioni di accordi.&lt;&#x2F;p&gt;
+&lt;p&gt;Melodrive Deep learning, teoria musicale e analisi dinamica sono qui
+combinati per dare vita canzoni che soddisfano alti requisiti tecnici. L’utente può suggerire una traccia di riferimento per far sì che quella composta suoni nello stesso modo.&lt;&#x2F;p&gt;
+&lt;p&gt;WaveAI MelodyStudio La piattaforma è dotata del primo generatore di melodia vocale al mondo e di un generatore di accordi avanzato. Entrambi aiutano gli autori a superare il blocco dello scrittore e rendono la il processo di creazione più accessibile. Propone opzioni illimitate per l’interpretazione canora dei testi.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
