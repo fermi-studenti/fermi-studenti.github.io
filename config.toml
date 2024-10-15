@@ -21,8 +21,6 @@ default_language = "it"
 [languages.it]
 title = "Studenti del Liceo Fermi"
 description = "Il sito degli studenti del Liceo Scientifico E. Fermi di Padova."
-generate_feed = false
-feed_filename = "atom.xml"
 taxonomies = [
     { name = "tags", feed = true, lang = "it" },
     { name = "categories", feed = true, lang = "it" },
