@@ -1,3 +1,4 @@
 [submodule "papaya"]
     path = themes/papaya
     url = https://github.com/fermi-studenti/papaya
+    branch = main
